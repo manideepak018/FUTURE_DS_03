@@ -1,0 +1,5 @@
+From,To,Start,End,Drop_Off,Drop_Off_%
+Awareness,Interest,10000,10000,0,0.0
+Interest,Consideration,10000,6212,3788,37.88
+Consideration,Decision,6212,2936,3276,52.736638763683196
+Decision,Conversion,2936,1997,939,31.982288828337875
